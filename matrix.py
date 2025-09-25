@@ -1,0 +1,1 @@
+# 15) Rotate an n*n matrix by 90° clockwise.Take a user input for a matrix and print the elements in spiral order
